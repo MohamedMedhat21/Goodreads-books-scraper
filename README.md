@@ -1,2 +1,6 @@
 # Goodreads-books-scraper
-choose an author link from Goodreads website and get a list of all his books
+
+This tool helps you to export a csv file of the books authored by a chosen author
+This csv file can be used in machine learning projects and to gather useful information 
+
+## Preview
