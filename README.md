@@ -1,6 +1,7 @@
 # Goodreads-books-scraper
 
 This tool helps you to export a CSV file of the books authored by a chosen author.
+
 This CSV file can be used in machine learning projects and to gather useful information, Also This tool can be used if you want to read a book for an author and you want to gather his written books and its rating to help you on your choice.
 ### Note: Tool supports Arab authors on Goodreads
 
