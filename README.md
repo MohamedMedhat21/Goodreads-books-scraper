@@ -6,6 +6,8 @@ This CSV file can be used in machine learning projects and to gather useful info
 
 ## Preview
 Author: Stephen King
+
 Link: https://www.goodreads.com/author/list/3389.Stephen_King
 
-![Generated CSV File](https://github.com/MohamedMedhat21/Goodreads-books-scraper/blob/main/media/Screenshot%202022-04-16%20181231.png)
+### Generated CSV File
+(https://github.com/MohamedMedhat21/Goodreads-books-scraper/blob/main/media/Screenshot%202022-04-16%20181231.png)
