@@ -10,5 +10,8 @@ Author: Stephen King
 
 Link: https://www.goodreads.com/author/list/3389.Stephen_King
 
+### Goodreads page
+![](https://github.com/MohamedMedhat21/Goodreads-books-scraper/blob/main/media/Screenshot%202022-04-17%20080511.png)
+
 ### Generated CSV File
 ![](https://github.com/MohamedMedhat21/Goodreads-books-scraper/blob/main/media/Screenshot%202022-04-17%20075400.png)
